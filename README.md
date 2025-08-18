@@ -57,6 +57,14 @@ Me chamo Hugo de Oliveira Nunes, nascido em 30/08/2005. Concluí o curso técnic
 />
 <img 
     align="left" 
+    alt="HTML5"
+    title="HTML5" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 

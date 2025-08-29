@@ -2,7 +2,7 @@
 
 
 
-# Hugo Nunes
+# Gustavo Barbosa
 
 Me chamo Hugo de Oliveira Nunes, nascido em 30/08/2005. Concluí o curso técnico em desenvolvimento de Sistema na ETEC de Assis-SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FEMA.
 - 💻 Hoje trabalho como suporte ao usuário e redes

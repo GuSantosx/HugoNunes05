@@ -32,7 +32,7 @@ Me chamo Hugo de Oliveira Nunes, nascido em 30/08/2005. Concluí o curso técnic
 ### 🤖 Linguagens e Tecnologias
 
 <img 
-    align="left" 
+    align="right" 
     alt="Java"
     title="Java" 
     width="30px" 
